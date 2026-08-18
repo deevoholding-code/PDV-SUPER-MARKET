@@ -1,0 +1,6 @@
+{
+  "name": "PDV Family Supermarket",
+  "description": "Ecossistema completo do Family Supermarket unificando Loja Online e-commerce, Área do Cliente com Clube Family, Checkout em 6 fases, Painel Administrativo ERP e PDV Frente de Caixa de alta performance com atalhos F1-F12, leitor de código de barras e controle de caixa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
